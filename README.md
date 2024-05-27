@@ -15,7 +15,7 @@ A simple web page that takes an xlsx file and turns it into a JSON output for do
 npm install
 ```
 
-### Compile
+### Compile for Development
 
 ```sh
 npm run test
